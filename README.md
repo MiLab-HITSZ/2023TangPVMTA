@@ -42,3 +42,7 @@ to change its setting.
 
 - Especially, for AM defender model, you can lauch the attack by running the following prompt:
     > python src/attacker_AM.py --dataset=fashionmnist --model_tgt=res20a_mnist --model_clone=wres22 --attack=knockoff --dataset_sur=mnist --epochs=100
+
+### REFERENCES
+ - *[https://github.com/JonasGeiping/breaching](https://github.com/sanjaykariyappa/MAZE)https://github.com/sanjaykariyappa/MAZE*
+
